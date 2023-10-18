@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="256.0" preserveAspectRatio="xMidYMid" version="1.1" viewBox="0.0 0.0 256.0 256.0" width="256.0" zoomAndPan="magnify">
+ <defs>
+  <linearGradient id="linearGradient-1" x1="26.599%" x2="73.845%" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" y1="146.56%" y2="52.381%">
+   <stop offset=".09677" stop-color="#0095D5"/>
+   <stop offset=".3007" stop-color="#238AD9"/>
+   <stop offset=".6211" stop-color="#557BDE"/>
+   <stop offset=".8643" stop-color="#7472E2"/>
+   <stop offset="1" stop-color="#806EE3"/>
+  </linearGradient>
+  <linearGradient id="linearGradient-2" x1="13.984%" x2="68.682%" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" y1="37.105%" y2="-13.554%">
+   <stop offset=".1183" stop-color="#0095D5"/>
+   <stop offset=".4178" stop-color="#3C83DC"/>
+   <stop offset=".6962" stop-color="#6D74E1"/>
+   <stop offset=".8333" stop-color="#806EE3"/>
+  </linearGradient>
+  <linearGradient id="linearGradient-3" x1="-16.836%" x2="76.219%" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" xmlns:xlink="http://www.w3.org/1999/xlink" y1="91.94%" y2="-1.1157%">
+   <stop offset=".1075" stop-color="#C757BC"/>
+   <stop offset=".2138" stop-color="#D0609A"/>
+   <stop offset=".4254" stop-color="#E1725C"/>
+   <stop offset=".6048" stop-color="#EE7E2F"/>
+   <stop offset=".743" stop-color="#F58613"/>
+   <stop offset=".8232" stop-color="#F88909"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <polygon fill="url(#linearGradient-1)" points="0 256 128.43 127.57 256 256"/>
+  <polygon fill="url(#linearGradient-2)" points="0 0 128.43 0 0 138.67"/>
+  <polygon fill="url(#linearGradient-3)" points="128.43 0 0 135.25 0 256 128.43 127.57 256 0"/>
+ </g>
+</svg>

@@ -1,0 +1,133 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.circle {
+    background-color: black;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.small-circle {
+    background-color: gray;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+}
+
+.letter-spacing-3 {
+    letter-spacing: 3px;
+}
+
+.letter-spacing-2 {
+    letter-spacing: 2px;
+}
+
+.letter-spacing-1 {
+    letter-spacing: 1px;
+}
+
+.custom-card {
+    width: 80%;
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.black-card {
+    width: 80%;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#linkedin-logo {
+    border-radius: 50%;
+}
+
+#skills {
+    background-color: black;
+}
+
+.country-flag {
+    border-radius: 0%;
+}
+
+#projects {
+    background-color: black;
+    color: white;
+}
+
+.project-card {
+    background-color: white;
+    color: black;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.advinha-palavras-card {
+    background-color: white;
+    color: black;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.about-me-card {
+    background-color: black;
+    color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#contact {
+    background-color: black;
+}
+
+.contact-form {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.no-resize {
+    resize: none;
+}
+
+@media (max-width: 991px) {
+    .my-sm-5px {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+    }
+    .contact-img {
+        margin-bottom: 10px !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .black-card {
+        width: 100%;
+    }
+    .custom-card {
+        width: 100%;
+    }
+    .gray-image {
+        height: 300px;
+    }
+    .px-sm-0 {
+        padding: 0;
+    }
+    .map-sm {
+        height: 200px;
+    }
+    .img-sm {
+        height: 125px;
+        margin-top: 5px;
+    }
+}
+
